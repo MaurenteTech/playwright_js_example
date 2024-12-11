@@ -1,0 +1,51 @@
+[
+    {
+        "url": "https://animated-gingersnap-8cf7f2.netlify.app/",
+        "username": "admin",
+        "password": "password123",
+        "test_cases": [
+            {
+                "testCaseTitle": "TestCase1", 
+                "expectedNavbarTitle": "Web Application", 
+                "expectedColumn": "To Do",
+                "expectedTaskName": "Implement user authentication", 
+                "expectedTags": ["Feature", "High Priority"]
+            }, 
+            {
+                "testCaseTitle": "TestCase2", 
+                "expectedNavbarTitle": "Web Application", 
+                "expectedColumn": "To Do",
+                "expectedTaskName": "Fix navigation bug", 
+                "expectedTags": ["Bug"]
+            }, 
+            {
+                "testCaseTitle": "TestCase3", 
+                "expectedNavbarTitle": "Web Application", 
+                "expectedColumn": "In Progress",
+                "expectedTaskName": "Design system updates", 
+                "expectedTags": ["Design"]
+            },
+            {
+                "testCaseTitle": "TestCase4", 
+                "expectedNavbarTitle": "Mobile Application", 
+                "expectedColumn": "To Do",
+                "expectedTaskName": "Push notification system", 
+                "expectedTags": ["Feature"]
+            },
+            {
+                "testCaseTitle": "TestCase5", 
+                "expectedNavbarTitle": "Mobile Application", 
+                "expectedColumn": "In Progress",
+                "expectedTaskName": "Offline mode", 
+                "expectedTags": ["Feature", "High Priority"]
+            },
+            {
+                "testCaseTitle": "TestCase6", 
+                "expectedNavbarTitle": "Mobile Application", 
+                "expectedColumn": "Done",
+                "expectedTaskName": "App icon design", 
+                "expectedTags": ["Design"]
+            }
+        ]
+    }
+]
