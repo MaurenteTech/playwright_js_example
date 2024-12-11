@@ -31,11 +31,11 @@ the test cases listed under the 'test_cases' field in the json file.
             - getTaskTags(taskName) - returns an array of strings representing all of the tasks for listed in the task card
             - doesColumnContainTask(columnName, taskName) - returns a boolean which will be true if the task card identified by arg 'taskName' is under the column identified by arg 'columnName'
 
-Challenges: \
+## Challenges: ## 
 None.
 
-Results: \
+## Results: ## 
 All tests passed. 
 
-Recommendations: \
+## Recommendations: ##
 None
