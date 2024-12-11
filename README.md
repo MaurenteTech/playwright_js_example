@@ -16,7 +16,7 @@ Create a Playwright-driven test suite that leverages data-driven techniques to m
     - You will find the test case data under the field 'test_cases'.
 - In the test file [tests/elementVerifyTests.test.js](tests/elementVerifyTests.test.js), we loop through
 the test cases listed under the 'test_cases' field in the json file.
-- This project uses Page Object Models. The pages are stored in the pages/ folder. \
+- This project uses Page Object Models. The pages are stored in the pages/ folder.
     - Pages used:
         1. LoginPage - Stores locators and functions used on the login page.
             - enterUsername(username) - fills the username field
@@ -38,4 +38,4 @@ None.
 All tests passed. 
 
 ## Recommendations: ##
-None
+None.
